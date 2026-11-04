@@ -1,0 +1,2 @@
+# msmtp-conf
+nothing special
